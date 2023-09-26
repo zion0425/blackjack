@@ -1,9 +1,4 @@
-package blackjack.domain.component;
-
-import blackjack.domain.component.Card;
-import blackjack.domain.component.Deck;
-
-import java.util.Collections;
+package blackjack.repository.component;
 
 public class DeckFactory {
     private static final String[] suits = {"spade", "diamond", "heart", "club"};

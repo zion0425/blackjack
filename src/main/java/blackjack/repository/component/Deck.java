@@ -1,4 +1,4 @@
-package blackjack.domain.component;
+package blackjack.repository.component;
 
 import java.util.Collections;
 import java.util.Stack;

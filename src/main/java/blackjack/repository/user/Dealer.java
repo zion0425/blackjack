@@ -1,8 +1,8 @@
-package blackjack.domain.user;
+package blackjack.repository.user;
 
-import blackjack.domain.component.Card;
-import blackjack.domain.component.Deck;
-import blackjack.domain.component.DeckFactory;
+import blackjack.repository.component.Card;
+import blackjack.repository.component.Deck;
+import blackjack.repository.component.DeckFactory;
 
 public class Dealer implements User{
 

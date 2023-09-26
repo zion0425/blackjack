@@ -1,4 +1,4 @@
-package blackjack.domain.component;
+package blackjack.repository.component;
 
 public class Card {
     private String suit;
